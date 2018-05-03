@@ -40,3 +40,9 @@ dependencies {
 	compile ('org.springframework:spring-webmvc')
 	testCompile('org.springframework.boot:spring-boot-starter-test')
 }
+
+jar {
+   manifest {
+      attributes 'Main-Class': 'com.onkyarity.controller.AppMainController'
+   }
+}
