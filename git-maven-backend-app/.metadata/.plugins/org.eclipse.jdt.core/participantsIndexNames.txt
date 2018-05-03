@@ -1,3 +1,0 @@
-INDEX VERSION 1.130
-/Users/onkar/Documents/workspace-eclipse/git-maven-backend-app/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2298058438.index
-/onkyarity-backend-app/src/main/resources
