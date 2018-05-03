@@ -1,0 +1,12 @@
+package onkyarity.main;
+
+
+
+public class AppStarterMain {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
