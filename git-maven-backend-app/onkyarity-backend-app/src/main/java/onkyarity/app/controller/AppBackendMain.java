@@ -17,4 +17,10 @@ public class AppBackendMain {
 	public String welcome() {
 		return "Welcome";
 	}
+	
+	@RequestMapping("/wel")
+	public String welcome2() {
+		return "Welcome";
+	}
 }
+
